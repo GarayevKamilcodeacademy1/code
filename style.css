@@ -1,0 +1,168 @@
+.wrapper{
+	padding: 20px;
+	margin: 0 auto;
+	width: 960px;
+	
+	background: white;
+	border: 1px solid black;
+}
+
+.redrow1{
+	padding: 5px;
+	text-align:center;
+	color: white;
+	background: #E32A2A;
+	margin:0px 550px 0 250px;
+	width: 250px;
+}
+.redrow1 p,h1{
+	color: white;
+	padding: 10px;
+	margin: 0;
+}
+
+.redrow2 p, li{
+	color: white;
+	display: inline-block;}
+
+.redrow2{
+
+	color: white;
+	margin: 0 auto;
+	width: 1003px;
+	padding: 10px 0px;
+	color: red;
+	background: #E32A2A;
+ }
+ #ul{ 
+ margin:0; }
+
+ .redrow2 a{
+
+ 	color: white;
+ }
+.selection{
+	position: relative;
+	margin: 0 auto;
+	width: 1003px;
+	height: 125px;
+	background: lightgray;
+
+}
+#select1{
+	border-radius: 8px;
+	height: 33px;
+	margin: 20px;
+	width: 130px;
+
+}
+#select2{
+	border-radius: 8px;
+	height: 33px;
+	position: absolute;
+	top:70px ;
+	left:20px ;
+	width: 130px;
+}
+
+.qiymet{
+	text-align: center;
+	display: inline-block;
+	border-radius: 8px;
+	height: 25px;
+
+	width: 70px;
+	background: white;
+	padding: 2px;
+
+}
+#azn{
+	border-radius: 8px;
+	height: 30px;
+	padding: 2px;
+	width: 65px;
+}
+#inputMark{
+	text-align: center;
+	width: 50px;
+	height: 25px;
+}
+.kredit{
+	text-align: center;
+	display: inline-block;
+	border-radius: 8px;
+	height: 25px;
+	margin-left: 10px;
+	width: 70px;
+	background: white;
+	padding: 2px;
+}
+
+.qiymetler{
+	display: inline-block;
+	margin-left: 174px;
+}
+.buraxilis{
+	text-align: center;
+	display: inline-block;
+	border-radius: 8px;
+	height: 25px;
+
+	width: 110px;
+	background: white;
+	padding: 2px;
+
+}
+.axtaris{
+	display: inline-block;
+	position: absolute;
+	top: 30px;
+	right: 30px;
+}
+#axtar{
+	text-align: center;
+	display: block;
+	border-radius: 8px;
+	height: 25px;
+	margin-bottom: 10px;
+	width: 140px;
+	background: #E32A2A;
+	padding: 2px;
+}
+.selection a{
+	color: white;
+}
+
+
+.elan1{
+	position: relative;
+	border: 1px solid black;
+	width: 230px;
+	height: 260px;
+	display: inline-block;
+	margin-bottom: 30px;
+	margin-right: 5px;
+}
+
+
+.elan1 img{
+	width: 100%;
+	height: 190px;
+}
+.elan1 h3,h5, p{
+	margin: 2px 10px;
+}
+.mark{
+	position: absolute;
+	left: 0;
+	top: 160px;
+	width: 100px;
+	height: 30px;
+	background: #E32A2A;
+}
+.mark h3{
+	color: white;
+}
+a h3,h5,p{
+	color: black;
+}
